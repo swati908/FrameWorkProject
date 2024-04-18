@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.ShopperStack.testScript.Verify_user_is_able_add_address">
+        <methods>
+          <include name="bc"/>
+          <include name="bs"/>
+          <include name="ac"/>
+          <include name="bt"/>
+          <include name="bm"/>
+          <include name="addAddress"/>
+          <include name="am"/>
+        </methods>
+      </class> <!-- com.ShopperStack.testScript.Verify_user_is_able_add_address -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

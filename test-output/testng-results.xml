@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T09:04:37 IST" name="Suite" finished-at="2024-04-16T09:04:37 IST" duration-ms="161">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T09:04:37 IST" name="Test" finished-at="2024-04-16T09:04:37 IST" duration-ms="161">
+      <class name="com.ShopperStack.testScript.Verify_user_is_able_add_address">
+        <test-method is-config="true" signature="bs()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="bs" finished-at="2024-04-16T09:04:37 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="bt" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="FAIL">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+report cannot be resolved
+report cannot be resolved
+report cannot be resolved
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+report cannot be resolved
+report cannot be resolved
+report cannot be resolved
+
+at com.ShopperStackGUtility.BaseTest.bt(BaseTest.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:661)
+at org.testng.TestRunner.beforeRun(TestRunner.java:650)
+at org.testng.TestRunner.run(TestRunner.java:612)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="bc" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="bm" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="addAddress()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="addAddress" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+report cannot be resolved
+report cannot be resolved
+report cannot be resolved
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+report cannot be resolved
+report cannot be resolved
+report cannot be resolved
+
+at com.ShopperStackGUtility.BaseTest.bt(BaseTest.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:661)
+at org.testng.TestRunner.beforeRun(TestRunner.java:650)
+at org.testng.TestRunner.run(TestRunner.java:612)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method is-config="true" signature="am()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="am" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="ac" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:37 IST" name="at" finished-at="2024-04-16T09:04:37 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:com.ShopperStack.testScript.Verify_user_is_able_add_address@51399530]" started-at="2024-04-16T09:04:38 IST" name="as" finished-at="2024-04-16T09:04:38 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- com.ShopperStack.testScript.Verify_user_is_able_add_address -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
